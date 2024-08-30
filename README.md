@@ -422,7 +422,7 @@ documentation.
 ```
 Not difficult at all. I don't remember if I actually had to code at all. However,
 you do a lot of writing. If you're not good at writing essays or communicating, consider
-taking this class to improve on this skills, you will need them.
+taking this class to improve on these skills, you will need them.
 ```
 
 #### Enjoyment - 8/10
